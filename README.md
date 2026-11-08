@@ -22,17 +22,17 @@ Atualizar o relatório criativo de vendas para apoiar a decisão. O layout segue
 
 ### Home page
 
-![Home page](prints/home-page.png)
+![Home page](prints/capa.png)
 
 ### Vendas
 
-![Vendas](prints/vendas.png)
+![Vendas](prints/pagina-vendas.png)
 
 A página de volume mantém o eixo de período na casa dos 20 Mi, os produtos na casa dos 30 Mi (Paseo à frente) e o treemap de países liderado pelos Estados Unidos.
 
 ### Lucro
 
-![Lucro](prints/lucro.png)
+![Lucro](prints/pagina-lucro.png)
 
 Na página de lucro, sem filtro cruzado, os números do período completo são:
 
